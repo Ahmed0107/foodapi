@@ -70,11 +70,10 @@ const foods = [
 ];
 
 const types = [
-  "Filters",
-  "Hygenic",
-  "Live Tracking",
-  "Contact",
-  "Fast Foods",
+  {title: "Filters"},
+  {title: "Hygenic"},
+  {title: "Live Tracking"},
+  {title: "Fast Foods"},
 ]
 
 const categories = [
